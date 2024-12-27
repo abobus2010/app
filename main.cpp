@@ -11,4 +11,5 @@ int main()
     cout << a +b;
     cout << a *b << "MULTIPLICATION";
     cout << a -b;
+    cout << (a +b) *b ;
 }
