@@ -10,5 +10,5 @@ int main()
     std::cin >>b;std::cout << std::endl;
     cout << a +b;
     cout << a *b << "MULTIPLICATION";
-    cout << a /b << "DIVISION";
+    cout << (a +b) *b ;
 }
